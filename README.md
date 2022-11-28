@@ -10,6 +10,9 @@ Software used
 * Jupyter Notebook
 * QuickDBD
 
+## ERD
+![](crowdfunding_db_relationships.png)
+
 ## ETL
 The first step I took was extracting the data. Using Jupyter Notebook, I imported the backer_info.csv into my DataFrame and converted each row into a dictionary values using the code shown below, after turning the rows into dictionary values, we can organize the data by adding columns and seperating the information.
 ```
