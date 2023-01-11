@@ -1,7 +1,7 @@
 # Crowdfunding-ETL
 
 ## Overview of analysis
-Independent Funding received a dataset that contains information about the backers who have pledged to the live projects. My job on this project was to perform both an ETL (extract, transform and load) process and a dataset process.
+Independent Funding received a dataset that contains information about the backers who have pledged to the live projects. The task was to perform both an ETL (extract, transform and load) process and a dataset process.
 
 ## Resources
 Software used
